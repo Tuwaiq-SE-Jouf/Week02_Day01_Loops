@@ -31,7 +31,6 @@
 -	Write a nested loop that print the multiplication table for number from 1-5
 
 
-## BONUS:
 
 ### Fibonacci sequence:
 - Write a program that prints the first 20 elements of Fibonacci sequence:
