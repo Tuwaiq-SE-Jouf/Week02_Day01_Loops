@@ -140,7 +140,7 @@ let a= 1;
       {
 
         factor = factor * a ;
-              a++
+              a++;
 
      }
 
